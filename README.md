@@ -1,2 +1,2 @@
 # TimeTV
-Android TV Frame
+Android TV Rapid Development Framework
